@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using System;
 
 public class PetSelectionUIController : MonoBehaviour
 {
@@ -12,9 +13,13 @@ public class PetSelectionUIController : MonoBehaviour
         Debug.Log("Awake");
     }
 
-    public void SetPetSelected(int petSelected)
+    public void RandomPet()
     {
-        this.petSelected = petSelected;
-        Debug.Log(this.petSelected.ToString());
+        System.Random rd = new System.Random();
+
+        double randNum = rd.NextDouble();
+        
+        Debug.Log(randNum.ToString());
+
     }
 }
