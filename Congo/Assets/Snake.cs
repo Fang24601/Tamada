@@ -9,6 +9,7 @@ public class Snake : MonoBehaviour
     private List<Transform> _segments;
     public Transform segmentPrefab;
     public int initialSize = 2;
+    public Animation anim;
 
     private void Start()
     {
@@ -20,6 +21,11 @@ public class Snake : MonoBehaviour
 
     //Update is called every frame the game is running (common for input)
     private void Update()
+    {
+        processMovement();
+    }
+
+    private void processMovement()
     {
         //Create player input and mapping keys
         if(Input.GetKeyDown(KeyCode.W))
