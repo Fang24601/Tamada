@@ -9,10 +9,10 @@ public class Snake : MonoBehaviour
     private List<Transform> _segments;
     public Transform segmentPrefab;
     public int initialSize = 2;
-    public Animation anim;
-
+    public Animator anim;
     private void Start()
     {
+        anim = GetComponent<Animator>();
         //Create first segment of the snake and create a list
         _segments = new List<Transform>();
         _segments.Add(this.transform);
@@ -23,6 +23,8 @@ public class Snake : MonoBehaviour
     private void Update()
     {
         processMovement();
+        anim.SetFloat("Horizontal", direction.x);
+        anim.SetFloat("Vertical", direction.y);
     }
 
     private void processMovement()
