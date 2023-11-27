@@ -10,6 +10,7 @@ public class Snake : MonoBehaviour
     public Transform segmentPrefab;
     public int initialSize = 2;
     public Animator anim;
+    public int playerScore = 0;
     private void Start()
     {
         anim = GetComponent<Animator>();
@@ -85,6 +86,8 @@ public class Snake : MonoBehaviour
         _segments.Clear();
         //Add initial segment
         _segments.Add(this.transform);
+        //Set score back to 0;
+        playerScore = 0;
 
         for (int i = 1; i < this.initialSize; i++)
         {
