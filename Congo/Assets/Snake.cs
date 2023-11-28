@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 using UnityEngine;
-
+using UnityEngine.SceneManagement;
 public class Snake : MonoBehaviour
 {
     //Vector2 has a float X and Y which allows movement for up and down
@@ -10,7 +10,8 @@ public class Snake : MonoBehaviour
     public Transform segmentPrefab;
     public int initialSize = 2;
     public Animator anim;
-    public int playerScore = 0;
+    public AudioSource foodPickup;
+    
     private void Start()
     {
         anim = GetComponent<Animator>();
@@ -86,8 +87,6 @@ public class Snake : MonoBehaviour
         _segments.Clear();
         //Add initial segment
         _segments.Add(this.transform);
-        //Set score back to 0;
-        playerScore = 0;
 
         for (int i = 1; i < this.initialSize; i++)
         {
@@ -96,15 +95,22 @@ public class Snake : MonoBehaviour
         //Place segment at position 0,0,0
         this.transform.position = Vector3.zero;
     }
+    
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.tag == "Food")
         {
+            foodPickup.Play();
             Grow();
+            ScoreManager.instance.AddPoint();
         }
         if (other.tag == "Obstacle")
         {
             ResetState();
+            ScoreManager.instance.ResetPoint();
+            SceneManager.LoadScene("DeathScreen");
         }
     }
+
+
 }
