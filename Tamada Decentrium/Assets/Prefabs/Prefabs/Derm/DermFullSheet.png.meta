@@ -1,0 +1,1050 @@
+fileFormatVersion: 2
+guid: 84684c654476a07498bba2aaf7f60ff0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DermFullSheet_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 4495
+        width: 198
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa5145add9bfae408caae0f66514011
+      internalID: 406267782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DermFullSheet_1
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 4494
+        width: 188
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7cf852f9c79ad4ab71f4d6696d11fe
+      internalID: -1337639981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DermFullSheet_2
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 4494
+        width: 190
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a5bf7a8164f974c94b5b82ff28f3e4
+      internalID: 785367790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DermFullSheet_4
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 3484
+        width: 374
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f756e7a4a804a94db0db6b56025c105
+      internalID: -1308237271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DermFullSheet_5
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 3500
+        width: 286
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402eca2f9e0fcf54aab3f8194beafb26
+      internalID: -843638589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DermFullSheet_7
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 3189
+        width: 204
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32df4db7269669441b1354043db42a35
+      internalID: 1338403651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DermFullSheet_8
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 3182
+        width: 207
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0a164855042d34db0284a52bdf26db
+      internalID: 64603841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DermFullSheet_10
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 3182
+        width: 204
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5179455f6df151c49beeeb0f2ceb1b91
+      internalID: 91429368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DermFullSheet_12
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 3182
+        width: 206
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288e4a1c56c9fd040aed7bd19e67a7a4
+      internalID: 19849182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DermFullSheet_15
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 3198
+        width: 12
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c41a00ad8e30804ba88e9a8303d713d
+      internalID: -26048276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DermFullSheet_16
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 3182
+        width: 206
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71efeec62ee42047a0b5a4ad29d219e
+      internalID: -1162647124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DermFullSheet_17
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2870
+        width: 204
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d6c14d10283d94a868d4f7ba750eaf
+      internalID: 954680948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DermFullSheet_19
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 2870
+        width: 206
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0751eddf7d4b9a46811abaca94fd235
+      internalID: -1880807900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DermFullSheet_21
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 2582
+        width: 206
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94dc47bbebeb4db4c8c157045d83943e
+      internalID: -2021607566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DermFullSheet_23
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 2565
+        width: 206
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264afe970f413434f84ae154ad15d751
+      internalID: 157766643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DermFullSheet_24
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 2572
+        width: 206
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9014377de288d49a6a160f8559812c
+      internalID: -513808444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DermFullSheet_26
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 2605
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427c288408a0e634c938e0eca9100cdd
+      internalID: -1305447838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DermFullSheet_27
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2254
+        width: 220
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7862708d4e7411f459c901466ed944c1
+      internalID: -1909510008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DermFullSheet_28
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 2254
+        width: 220
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795891e4b524a2c4e8d9800cf8d11649
+      internalID: 211578537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DermFullSheet_29
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 2254
+        width: 220
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008f202733e4cac4a9eabe9d9c93cbee
+      internalID: -184207264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DermFullSheet_30
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 2254
+        width: 220
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe1e4737f0d31848b6d5d0e1902da1c
+      internalID: -1690723513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DermFullSheet_31
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 2246
+        width: 221
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b100aab0923e5f46836b09eb5f408ee
+      internalID: -554527135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DermFullSheet_32
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 2246
+        width: 223
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07299da59f728fc4a9be31eb4cb07d7c
+      internalID: 1733466791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DermFullSheet_33
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1925
+        width: 223
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05184e58378d43142ac29cffee84d225
+      internalID: -112802929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DermFullSheet_34
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1925
+        width: 223
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37af38ea9bec7154183c0fdcf67e5d0b
+      internalID: -1221485244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DermFullSheet_35
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1630
+        width: 223
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754b61a0239609d4c8d07d13501e5834
+      internalID: -1908498704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DermFullSheet_37
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1630
+        width: 223
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3e3585c31a162499d4278e0ad88ba0
+      internalID: 694934844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DermFullSheet_38
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 4499
+        width: 191
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577f3d7dd981d514689a048abe317496
+      internalID: -151581991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DermFullSheet_39
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 4502
+        width: 195
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32951ac7d9608b4d92972cc594a2043
+      internalID: -744958854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DermFullSheet_40
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 4501
+        width: 204
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9075f0d00b3e34d895c39e54c2883e
+      internalID: 810312597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DermFullSheet_6
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 4157
+        width: 188
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76e9b3c4431a1443abc8b750706f70a
+      internalID: 1747965538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DermFullSheet_41
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 4157
+        width: 186
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b8bbcc70a4a4140b1e1c9be82fceb9
+      internalID: -1120063588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DermFullSheet_42
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3831
+        width: 199
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4d2e23d328f674f826dc929cee0f19
+      internalID: 420586003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DermFullSheet_43
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3813
+        width: 197
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2becda76b87f549808426fe54c7483
+      internalID: -860290959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DermFullSheet_44
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 3830
+        width: 188
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4cbc8c797dcc148a941caf5662e35c
+      internalID: 430220095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DermFullSheet_3
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 3502
+        width: 192
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63e565702f133044bc2dbed1d526b10
+      internalID: 1859713735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DermFullSheet_45
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 3502
+        width: 193
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f981e465de95274b8a3083ef7299bad
+      internalID: -1692632063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DermFullSheet_46
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 3505
+        width: 258
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee0f6d09bf338240846f480812eea2b
+      internalID: 2073490098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DermFullSheet_47
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 3503
+        width: 285
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f47781ec0fd20f4c84d712de9022e78
+      internalID: -2024221719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DermFullSheet_48
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 3510
+        width: 283
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8a3160c0c8ee346af9622a25d19ec1
+      internalID: 339415691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DermFullSheet_9
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1621
+        width: 222
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29caa2a1fd971e449d00999f7b19ad3
+      internalID: -508796744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DermFullSheet_0: 406267782
+      DermFullSheet_1: -1337639981
+      DermFullSheet_10: 91429368
+      DermFullSheet_11: 1056323380
+      DermFullSheet_12: 19849182
+      DermFullSheet_13: 1484002720
+      DermFullSheet_14: -1677960821
+      DermFullSheet_15: -26048276
+      DermFullSheet_16: -1162647124
+      DermFullSheet_17: 954680948
+      DermFullSheet_18: 1145942308
+      DermFullSheet_19: -1880807900
+      DermFullSheet_2: 785367790
+      DermFullSheet_20: -1193653510
+      DermFullSheet_21: -2021607566
+      DermFullSheet_22: -421679605
+      DermFullSheet_23: 157766643
+      DermFullSheet_24: -513808444
+      DermFullSheet_25: 1741627191
+      DermFullSheet_26: -1305447838
+      DermFullSheet_27: -1909510008
+      DermFullSheet_28: 211578537
+      DermFullSheet_29: -184207264
+      DermFullSheet_3: 1859713735
+      DermFullSheet_30: -1690723513
+      DermFullSheet_31: -554527135
+      DermFullSheet_32: 1733466791
+      DermFullSheet_33: -112802929
+      DermFullSheet_34: -1221485244
+      DermFullSheet_35: -1908498704
+      DermFullSheet_36: 1558726239
+      DermFullSheet_37: 694934844
+      DermFullSheet_38: -151581991
+      DermFullSheet_39: -744958854
+      DermFullSheet_4: -1308237271
+      DermFullSheet_40: 810312597
+      DermFullSheet_41: -1120063588
+      DermFullSheet_42: 420586003
+      DermFullSheet_43: -860290959
+      DermFullSheet_44: 430220095
+      DermFullSheet_45: -1692632063
+      DermFullSheet_46: 2073490098
+      DermFullSheet_47: -2024221719
+      DermFullSheet_48: 339415691
+      DermFullSheet_5: -843638589
+      DermFullSheet_6: 1747965538
+      DermFullSheet_7: 1338403651
+      DermFullSheet_8: 64603841
+      DermFullSheet_9: -508796744
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

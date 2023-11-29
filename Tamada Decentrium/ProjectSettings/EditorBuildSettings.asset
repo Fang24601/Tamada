@@ -36,6 +36,6 @@ EditorBuildSettings:
     path: Assets/Scenes/DeathScreen.unity
     guid: 72fe0c669d14fed4b8efea00e43959c1
   - enabled: 1
-    path: Assets/Scenes/Salon.unity
-    guid: 9159d5299fc30224b9e70121091d2dbd
+    path: Assets/Scenes/Pacman.unity
+    guid: 91ca83afbdeac2d49aeb80380ec9d444
   m_configObjects: {}

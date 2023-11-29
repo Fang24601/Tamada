@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class SalonGameManager : MonoBehaviour
@@ -63,6 +64,7 @@ public class SalonGameManager : MonoBehaviour
         }
 
         pacman.gameObject.SetActive(false);
+        SceneManager.LoadScene("Main");
     }
 
     private void SetLives(int lives)

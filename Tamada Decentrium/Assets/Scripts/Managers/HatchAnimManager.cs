@@ -7,9 +7,8 @@ using UnityEngine.UI;
 
 public class HatchAnimManager : MonoBehaviour
 {
+    public GameObject animObject;
     public Animator animator;
-
-    public GameObject hatchButton;
 
     public GameObject selectionTileMap;
     public GameObject nameTileMap;
@@ -19,21 +18,17 @@ public class HatchAnimManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        this.hatchButton.GetComponent<Button>().onClick.AddListener(StartHatchAnimation);
-        //this.animator.SetTrigger("hatchIdle");
-    }
-
-    public void StartHatchAnimation()
-    {
-        animator.SetTrigger("hatch");
+        
     }
 
     public void LoadName()
     {
-        this.selectionTileMap.SetActive(false);
-        this.selectionUI.SetActive(false);
+        animObject.SetActive(false);
+
         this.nameTileMap.SetActive(true);
         this.nameUI.SetActive(true);
+        this.selectionTileMap.SetActive(false);
+        this.selectionUI.SetActive(false);
     }
     // Update is called once per frame
     void Update()

@@ -10,7 +10,12 @@ public class PetSelectionManager : MonoBehaviour
     public static PetSelectionManager instance;
 
     public TMP_InputField petName;
-    public Image petImage;
+    public SpriteRenderer petImage;
+
+    public Sprite derm;
+    public Sprite moko;
+    public Sprite orah;
+    public Sprite whoman;
 
     Pet newPet;
 
@@ -38,28 +43,27 @@ public class PetSelectionManager : MonoBehaviour
 
         if (randNum <= 0.03)
         {
+            this.petImage.sprite = whoman;
             this.newPet.type = "whoman";
         }
         else if (randNum <= 0.33)
         {
-            this.newPet.type = "Derm";
+            this.petImage.sprite = derm;
+            this.newPet.type = "derm";
         }
         else if (randNum <= .64)
         {
-            this.newPet.type = "Moko";
+            this.petImage.sprite = moko;
+            this.newPet.type = "moko";
         }
         else if (randNum <= 1.0)
         {
-            this.newPet.type = "Orah";
+            this.petImage.sprite = orah;
+            this.newPet.type = "orah";
         }
 
     }
 
-    public void SelectEgg()
-    {
-        this.newPet = new Pet(DatabaseManager.instance.getCurrUser().name, "", "egg");
-
-    }
 
     public void Finish()
     {

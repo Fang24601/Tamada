@@ -16,7 +16,7 @@ public class AnimatedSprite : MonoBehaviour
 
     private void Start()
     {
-        InvokeRepeating(nameof(Advance), animationTime, animationTime);
+       // InvokeRepeating(nameof(Advance), animationTime, animationTime);
     }
 
     private void Advance()

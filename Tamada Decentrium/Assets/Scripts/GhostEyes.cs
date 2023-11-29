@@ -32,5 +32,4 @@ public class GhostEyes : MonoBehaviour
             spriteRenderer.sprite = right;
         }
     }
-
 }

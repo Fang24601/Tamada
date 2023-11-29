@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Data;
 using TMPro;
 using Unity.VisualScripting;
+using UnityEditor.Animations;
 using UnityEngine;
 
 public class PetManager : MonoBehaviour
@@ -19,6 +20,15 @@ public class PetManager : MonoBehaviour
 
     public static PetManager instance;
 
+    private Sprite currSprite;
+    public Sprite derm;
+    public Sprite moko;
+    public Sprite orah;
+    public Sprite whoman;
+
+    public Animator animator;
+    public AnimatorController animContr;
+
     private void Awake()
     {
         if (instance == null)
@@ -31,6 +41,33 @@ public class PetManager : MonoBehaviour
         this.originalPetSaveTimer = this.petSaveTimer;
         this.petData = DatabaseManager.instance.GetUserActivePet();
         needs.SetPet(this.petData);
+        this.ChooseSprite();
+    }
+
+    private void ChooseSprite()
+    {
+        string spriteName = DatabaseManager.instance.GetUserActivePet().type;
+        Debug.Log("Sprite type: " + spriteName);
+        if(spriteName == "derm")
+        {
+            Debug.Log("Selecting Derm");
+            this.pet.SetSprite(this.derm);
+        }
+        else if (spriteName == "moko")
+        {
+            Debug.Log("Selecting moko");
+            this.pet.SetSprite(this.moko);
+        }
+        else if (spriteName == "orah")
+        {
+            Debug.Log("Selecting orah");
+            this.pet.SetSprite(this.orah);
+        }
+        else if (spriteName == "whoman")
+        {
+            Debug.Log("Selecting whoman");
+            this.pet.SetSprite(this.whoman);
+        }
     }
 
 
@@ -60,6 +97,7 @@ public class PetManager : MonoBehaviour
         if (this.needs.IsHappy())
         {
             // Change Sprite to +75 sprite
+
             this.pet.Happy();
         }
         else if (this.needs.IsSad())
