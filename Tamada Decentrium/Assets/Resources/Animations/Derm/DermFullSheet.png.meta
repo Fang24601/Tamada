@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -121,7 +121,826 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: DermRightIdle_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 4502
+        width: 187
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4fb244c8fe6eb43af95be454d9c3a1
+      internalID: 1601018022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DermUp_0
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 4494
+        width: 188
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1cf6f25c1d26694c945e313814d0b64
+      internalID: 1848045003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DermUp_1
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 4494
+        width: 190
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0fd34abc7172d4f838cc44ec70530b
+      internalID: -1057492226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DermDeath_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3502
+        width: 202
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b844986b32deb5e4098f4ddd32d50f71
+      internalID: -80701153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DermDeath_4
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 3500
+        width: 286
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c314f4d81135f9e43b00d667d8c0e015
+      internalID: 922583887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyDermIdle_1
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 3189
+        width: 204
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5de3a1680a96ff46b8032550d2f4c23
+      internalID: -302176828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyDermLeftIdle_0
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 3182
+        width: 207
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8c16e0460952c41b3745c4654fff77
+      internalID: 740261467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyDermLeftIdle_1
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 3182
+        width: 204
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1d8f6fdbeacc345966a589e306810a
+      internalID: -1630010619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyDermUp_1
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 3184
+        width: 206
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fbc7b32dd6b9c4fa5ac74efd667658
+      internalID: -700632330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyDermUp_
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 3182
+        width: 206
+        height: 273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4cb4a41d8af614db813221215842ea
+      internalID: 1113282965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyDermSkip_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2870
+        width: 204
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5188c33df42c4540a58e1ac80465e49
+      internalID: 906902348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyDermSkip_1
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 2869
+        width: 206
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ddd59c7365fbe54684b6c88160481c8
+      internalID: 1853403753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyDermBounce_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 2582
+        width: 206
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93add570f69d5e845bb5b2ff17507946
+      internalID: 748661562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyDermBounce_1
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 2565
+        width: 206
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65098894ad924954d9b28a6e83118453
+      internalID: 670812077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyDermBounce_2
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 2571
+        width: 206
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80fab7fe178d8e488ebd798168e2b64
+      internalID: -485570571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnholyDermIdle_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2254
+        width: 220
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded35bc684c77af4a80df9df0b1549fd
+      internalID: 440620587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnholyDermIdle_1
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 2254
+        width: 220
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230c685e69d0682409b30287ea611548
+      internalID: -1560723358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnholyDermLeftIdle_0
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 2254
+        width: 220
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9110555ccf0304293a3891a72ba33e
+      internalID: -2051210020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnholyDermLeftidle_1
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 2254
+        width: 220
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95db61af3f3755f459b1ea1b9cb8020d
+      internalID: 1616839078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnholyDermUp_0
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 2246
+        width: 221
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3a6aebcaa8ff34693269d58a32003d
+      internalID: -1240732421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnholyDermUp_1
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 2246
+        width: 223
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6f76ccabdc8b54fb526ba10f47ec21
+      internalID: -1763769136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnholyDermSkip_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1925
+        width: 223
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d516a2ff00ed6214ca00f4ce5faa9edc
+      internalID: -123248576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnholyDermSkip_1
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1925
+        width: 223
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c3c03bb895d964c87b9005aa486713
+      internalID: -2109036705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnholyDermBounce_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1630
+        width: 223
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c207262e102279b45a37253176daea8f
+      internalID: -1606529685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnholyDermBounce_1
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1632
+        width: 223
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84adf87625d302f48862ef85e7fefea4
+      internalID: -1708654196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DermRightIdle_1
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 4498
+        width: 188
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f3a5dad6716db4a9052cb60684e2f1
+      internalID: -106909942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DermLeftIdle_0
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 4499
+        width: 193
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae67d0db16ee5d4c98e3938b4b3488f
+      internalID: -368468119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DermLeftIdle_1
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 4498
+        width: 189
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc5373768463db40bfd6b437a7b7adb
+      internalID: -458949775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DermSkip_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 4157
+        width: 190
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93630ae753c9df40a41f4272b2dd2be
+      internalID: -654776863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DermSkip_1
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 4157
+        width: 192
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d18564ad1c0a8448942a017a6b954ba
+      internalID: -1401358441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DermBounce_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 3829
+        width: 200
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e18ad1432a9b3f4c95eb04c65c4e009
+      internalID: 705089196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DermBounce_1
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 3805
+        width: 207
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfdbe3878b7cea9438e06e0af315954e
+      internalID: 1644319108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DermBounce_2
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 3822
+        width: 196
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d258667e2e8dcdd4085a335c6493f08b
+      internalID: -510220123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DermDeath_1
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 3503
+        width: 200
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6295e94d43138ba458ec09373bcde1b3
+      internalID: 937960600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DermDeath_2
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 3503
+        width: 261
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4abcbeb255203d2409ea04737965cc42
+      internalID: -1749444498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DermDeath_3
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3504
+        width: 286
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d026745f2a1f04bb4b3994004bef8f
+      internalID: 1381806051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DermDeath_5
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 3506
+        width: 285
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632a24e163fcb5e41910246121bd5f57
+      internalID: 392978359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyDermIdle_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 3190
+        width: 200
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e38ce6fac190bc4d936878fb225fcf2
+      internalID: 842425890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnholyDermBounce_2
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1623
+        width: 218
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d93d9835bfe4d94e8ebee59a4230617
+      internalID: 938338126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -132,7 +951,59 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      DermBounce_0: 705089196
+      DermBounce_1: 1644319108
+      DermBounce_2: -510220123
+      DermDeath_0: -80701153
+      DermDeath_1: 937960600
+      DermDeath_2: -1749444498
+      DermDeath_3: 1381806051
+      DermDeath_4: 922583887
+      DermDeath_5: 392978359
+      DermFullSheet_11: -334614921
+      DermFullSheet_13: -1455256125
+      DermFullSheet_14: -1085556089
+      DermFullSheet_15: 310410092
+      DermFullSheet_18: 1058434753
+      DermFullSheet_20: -72609380
+      DermFullSheet_22: 10704265
+      DermFullSheet_25: 554116310
+      DermFullSheet_26: -832844643
+      DermFullSheet_36: -1982737189
+      DermFullSheet_4: -1745651048
+      DermFullSheet_6: -1095228069
+      DermFullSheet_9: 1757414020
+      DermLeftIdle_0: -368468119
+      DermLeftIdle_1: -458949775
+      DermRightIdle_0: 1601018022
+      DermRightIdle_1: -106909942
+      DermSkip_0: -654776863
+      DermSkip_1: -1401358441
+      DermUp_0: 1848045003
+      DermUp_1: -1057492226
+      HolyDermBounce_0: 748661562
+      HolyDermBounce_1: 670812077
+      HolyDermBounce_2: -485570571
+      HolyDermIdle_0: 842425890
+      HolyDermIdle_1: -302176828
+      HolyDermLeftIdle_0: 740261467
+      HolyDermLeftIdle_1: -1630010619
+      HolyDermSkip_0: 906902348
+      HolyDermSkip_1: 1853403753
+      HolyDermUp_: 1113282965
+      HolyDermUp_1: -700632330
+      UnholyDermBounce_0: -1606529685
+      UnholyDermBounce_1: -1708654196
+      UnholyDermBounce_2: 938338126
+      UnholyDermIdle_0: 440620587
+      UnholyDermIdle_1: -1560723358
+      UnholyDermLeftIdle_0: -2051210020
+      UnholyDermLeftidle_1: 1616839078
+      UnholyDermSkip_0: -123248576
+      UnholyDermSkip_1: -2109036705
+      UnholyDermUp_0: -1240732421
+      UnholyDermUp_1: -1763769136
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

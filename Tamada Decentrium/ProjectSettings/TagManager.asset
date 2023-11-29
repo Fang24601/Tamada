@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - endGameCanvas
+  - scoreText
+  - gameCanvas
+  - Platform
+  - SnakeTail
+  - Obstacle
+  - Food
   layers:
   - Default
   - TransparentFX
@@ -15,19 +22,19 @@ TagManager:
   - 
   - 
   - 
+  - Pacman
+  - Ghost
+  - Pellet
+  - Obstacle
+  - Node
   - 
   - 
   - 
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Layer 1
+  - Layer 2
+  - Layer 3
   - 
   - 
   - 
@@ -40,4 +47,16 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Layer 1
+    uniqueID: 2425651459
+    locked: 0
+  - name: Layer 2
+    uniqueID: 4250941897
+    locked: 0
+  - name: Layer 3
+    uniqueID: 4189426099
+    locked: 0
+  - name: Monkey Layer
+    uniqueID: 462699909
     locked: 0

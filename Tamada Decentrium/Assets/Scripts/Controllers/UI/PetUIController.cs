@@ -4,8 +4,9 @@ using UnityEngine.UI;
 
 public class PetUIController : MonoBehaviour
 {
-    public Image foodImage, happinessImage;
     public static PetUIController instance;
+
+    public GameObject hatchButton;
 
     private void Awake()
     {
@@ -14,11 +15,26 @@ public class PetUIController : MonoBehaviour
             instance = this;
         }
         else Debug.LogWarning("More than one PetUIController in the Scene");
+
+        int numEggs = DatabaseManager.instance.getCurrUser().numEggs;
+        if ( numEggs > 0 )
+        {
+            hatchButton.SetActive(true);
+        }
+        else if (numEggs == 0)
+        {
+            hatchButton.SetActive(false);
+        }
     }
 
-    public void UpdateImages(int food, int happiness)
+    public void DecrementEgg()
     {
-        this.foodImage.fillAmount = (float)food / 100;
-        this.happinessImage.fillAmount = (float)happiness / 100;
+        DatabaseManager.instance.DecEggCount();
     }
+
+    public void Logout()
+    {
+        DatabaseManager.instance.Logout();
+    }
+
 }
