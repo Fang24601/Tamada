@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 using UnityEngine;
-
+using UnityEngine.SceneManagement;
 public class Snake : MonoBehaviour
 {
     //Vector2 has a float X and Y which allows movement for up and down
@@ -9,9 +9,12 @@ public class Snake : MonoBehaviour
     private List<Transform> _segments;
     public Transform segmentPrefab;
     public int initialSize = 2;
-
+    public Animator anim;
+    public AudioSource foodPickup;
+    
     private void Start()
     {
+        anim = GetComponent<Animator>();
         //Create first segment of the snake and create a list
         _segments = new List<Transform>();
         _segments.Add(this.transform);
@@ -20,6 +23,13 @@ public class Snake : MonoBehaviour
 
     //Update is called every frame the game is running (common for input)
     private void Update()
+    {
+        processMovement();
+        anim.SetFloat("Horizontal", direction.x);
+        anim.SetFloat("Vertical", direction.y);
+    }
+
+    private void processMovement()
     {
         //Create player input and mapping keys
         if(Input.GetKeyDown(KeyCode.W))
@@ -85,15 +95,22 @@ public class Snake : MonoBehaviour
         //Place segment at position 0,0,0
         this.transform.position = Vector3.zero;
     }
+    
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.tag == "Food")
         {
+            foodPickup.Play();
             Grow();
+            ScoreManager.instance.AddPoint();
         }
         if (other.tag == "Obstacle")
         {
             ResetState();
+            ScoreManager.instance.ResetPoint();
+            SceneManager.LoadScene("DeathScreen");
         }
     }
+
+
 }
