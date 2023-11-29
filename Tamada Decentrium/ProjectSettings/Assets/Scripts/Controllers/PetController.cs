@@ -5,7 +5,13 @@ using UnityEngine;
 
 public class PetController : MonoBehaviour
 {
+
+    public SpriteRenderer spriteRenderer;
+
+    
+
     public Animator petAnimator;
+
     private Vector3 destination;
     public float speed;
 
@@ -22,34 +28,43 @@ public class PetController : MonoBehaviour
         }
     }
 
-    
+    public void SetAnimator(Animator animator)
+    {
+        this.petAnimator = animator;
+    }
+    public void SetSprite(Sprite sprite)
+    {
+        Debug.Log("Setting sprite");
+        if (this.spriteRenderer == null) return;
+        this.spriteRenderer.sprite = sprite;
+    }
+
     public void Move(Vector3 destination)
     {
         this.destination = destination;
     }
 
+    /*
+     * Use when 75+ value for each attribute
+     */
     public void Happy()
     {
-        petAnimator.SetTrigger("Happy");
+        // petAnimator.SetTrigger("Happy");
     }
-
-    public void Hungry()
+    /*
+     * Use when 25 - 50
+     */
+    public void Neutral()
     {
-        petAnimator.SetTrigger("Hungry");
+        // petAnimator.SetTrigger("Neutral");
     }
 
+    /*
+     * Use when 25- value for each attribute
+     */
     public void Sad()
     {
-        petAnimator.SetTrigger("Sad");
+        // petAnimator.SetTrigger("Sad");
     }
 
-    public void Tired()
-    {
-        petAnimator.SetTrigger("Tired");
-    }
-
-    public void Eat()
-    {
-        petAnimator.SetTrigger("Eat");
-    }
 }

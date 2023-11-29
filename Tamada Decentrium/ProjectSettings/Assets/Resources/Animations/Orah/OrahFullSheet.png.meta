@@ -1,0 +1,2071 @@
+fileFormatVersion: 2
+guid: 25a1f3871c0173740a5743fec5059339
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OrahRightIdle_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 3988
+        width: 195
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d526fd0915a12c24abadccb341511622
+      internalID: 1786590046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrahRightIdle_1
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 3988
+        width: 194
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c324bbad34d694b8bb04432cffcf0c
+      internalID: 1488207266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrahLeftIdle_0
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 3988
+        width: 193
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbbaf58f73b3ed4a81a79c0fca7a590
+      internalID: 1605114066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrahLeftIdle_1
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 3988
+        width: 195
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa614fb12f5cf147bd583469b2ecafa
+      internalID: 2020002254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrahUp_0
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 3988
+        width: 195
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ed1c0116212064994f15304aebb739
+      internalID: -1011642218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrahUp_1
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 3988
+        width: 194
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9f1f1d6767e32459ee7106f842dbc6
+      internalID: 1119886239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrahRollRIght_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3764
+        width: 193
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1b28aa2567465489b29c35df8fd87f
+      internalID: 1757539184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrahRightRoll_1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 3744
+        width: 209
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a680d7426a12724448a8b5e5c5d083ee
+      internalID: -1159628052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrahRightRoll_2
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 3758
+        width: 194
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886dfa707487c4a44afde4bb565de986
+      internalID: 143010302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrahRIghtRoll_3
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 3750
+        width: 188
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e75fec78a4b70a4e87b31d19a483b69
+      internalID: 1840138365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrahRightRoll_4
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 3750
+        width: 194
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c04704b66df60944b60b3d5c6d6686d
+      internalID: -875551925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrahRightRoll_5
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 3756
+        width: 201
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b756448ea060f7d419610aeee925abc1
+      internalID: 1688474174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrahRightRoll_6
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 3768
+        width: 200
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a28b276d68fae547abc6409289a0786
+      internalID: -978943756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrahRightRoll_7
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 3764
+        width: 215
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd6c305c88156741bf9cbe3498d98f7
+      internalID: -1985272344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrahRightRoll_8
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 3770
+        width: 193
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0966d3331b8b743b4a2f88fc04a1be
+      internalID: -1377395424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrahLeftRoll_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3551
+        width: 195
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18d40b9e1355914890e8c9ef51719b8
+      internalID: -2098342869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrahLeftRoll_1
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 3547
+        width: 188
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231bdb1deef039d4bbd1e3788ce12a8d
+      internalID: 377782955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrahLeftRoll_2
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 3555
+        width: 201
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbc2b6d4ff5b8f4ba50c15a0359699f
+      internalID: 662568551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrahLeftRoll_3
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 3547
+        width: 201
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c999308ad5513024da6a457c3a0d2936
+      internalID: 1712022835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrahLeftRoll_4
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 3549
+        width: 193
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a36ae80c3117a4e977cd3a9fd521e1
+      internalID: 1154066717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrahLeftRoll_5
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 3553
+        width: 201
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985c835a45cfbd14cbd9d4beb6a5b919
+      internalID: 2021288886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrahLeftRoll_6
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 3551
+        width: 201
+        height: 195
+      alignment: 9
+      pivot: {x: 0.49040988, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88dfdda37c84e93448099f5e006dd20d
+      internalID: 280110267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrahLeftRoll_7
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 3553
+        width: 201
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38f74d57f332564abb50115ebc2c4e5
+      internalID: -856369022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrahLeftRoll_8
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 3561
+        width: 195
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659e3e24c1aad664a9148197dc7e718d
+      internalID: 1135407885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrahBounce_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 3344
+        width: 195
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f90c90a319f3b4cb430088f9b67b72
+      internalID: 783036254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrahBounce_1
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 3336
+        width: 194
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31faa91fd40c11644ab70f651a1fe814
+      internalID: -613740801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrahBounce_2
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 3350
+        width: 195
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c987524e8253a946b0d57814252c43b
+      internalID: -1089949084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrahDeath_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 3126
+        width: 195
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49c557e8c0c19347966b3dc46c88a86
+      internalID: -639477479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrahDeath_1
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 3126
+        width: 195
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edeb802429be6294d97007551bdcade5
+      internalID: 1010572724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrahDeath_2
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 3130
+        width: 195
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc0a5e99d73fba478b80fcbdd6b94d5
+      internalID: 1767758600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrahDeath_3
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 3120
+        width: 201
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8bd95ad46aebb418be2bea8e391c2f
+      internalID: -1222253909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrahDeath_4
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 3120
+        width: 199
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f1b0d8188b0c944a46a6a6a5ffa2cb
+      internalID: -875902468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyOrahRightIdle_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2895
+        width: 193
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4611c8a29524b149807fd3d1dd20ec3
+      internalID: -1347943915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyOrahRightIdle_1
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 2901
+        width: 194
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4944da6ae4d34f74fbd1a748d513ef59
+      internalID: -258430716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyOraLeftIdle_0
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 2897
+        width: 194
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1a6b887d9f9c544881d4a3c20ed26e
+      internalID: 1199356412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyOrahLeftIdle_1
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 2895
+        width: 192
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db2955fe3da1a145a764f145546c884
+      internalID: 643291439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyOraUp_0
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 2895
+        width: 192
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e0c5730f4179842a6107a7ad1e3de6
+      internalID: 2011778141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyOraUp_1
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 2895
+        width: 194
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be887878e70b7049b9de0846b7e79f3
+      internalID: -315490941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyOraRightRoll_7
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 2706
+        width: 208
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7273ddaac107a804dae6cadf75c05469
+      internalID: 2072386121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyOraRightRoll_3
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 2671
+        width: 207
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4b017584a688948b587dbd886f2bdd
+      internalID: -1137541144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyOraRightRoll_4
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 2664
+        width: 193
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b6b92010e64684f8136db9a11e2e4b
+      internalID: -177544258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyOraRightRoll_5
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 2686
+        width: 207
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1c1637d81ec9a4ea43d750f2a6f19b
+      internalID: 111592348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyOraRightRoll_6
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 2700
+        width: 232
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f98bad77232501458b761b88a994717
+      internalID: 1861512217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyOraRightRoll_8
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 2686
+        width: 195
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fe045cd928bf9458f087a82b68eee0
+      internalID: 1623662469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyOraRightRoll_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2665
+        width: 195
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c68c10fee85934bb740f709c3c658f
+      internalID: -1052204304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyOraRightRoll_1
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 2651
+        width: 207
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f19645933e11ab409bb76cdbe86dd64
+      internalID: 884472526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyOraRightRoll_2
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 2671
+        width: 229
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf81c4581d779b548b989a9d885ec5bd
+      internalID: -654960034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyOraLeftRoll_1
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 2427
+        width: 227
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f49f1c6926281b439ceb9d4b0920a73
+      internalID: 895733150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyOraLeftRoll_2
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 2433
+        width: 226
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338c849901b667340b71b2b2b519c6c0
+      internalID: 220431284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyOraLeftRoll_3
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 2427
+        width: 201
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb7b9858e0887047b6c9d9f367482c9
+      internalID: -1009134111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyOraLeftRoll_4
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 2421
+        width: 186
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24001acd5f576ee4f8bf95f7617cff9e
+      internalID: 1419280874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyOraLeftRoll_5
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 2450
+        width: 230
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef46ec10076e2d4e9b725a566b3e1d9
+      internalID: 570929137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyOraLeftRoll_6
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 2462
+        width: 233
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6d727efafb8534ea2a139476479114
+      internalID: -37111125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyOraLeftRoll_7
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 2456
+        width: 208
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2063ba41abf505418279b265ed55cef
+      internalID: -608962179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyOraLeftRoll_8
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 2456
+        width: 193
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f296c2e276c47b40882667d14b8af82
+      internalID: 1922770489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyOraLeftRoll_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2421
+        width: 193
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee5a8a6c7f79004c80a64f6a22c07be
+      internalID: 1040976936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyOrahBounce_2
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 2195
+        width: 194
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2047b53c8ec96744af3f3649bf63c47
+      internalID: 997994328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyOrahBounce_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2189
+        width: 195
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b5a7964727c4d4e83a707445eead11
+      internalID: 823658091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyOrahBounce_1
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 2189
+        width: 193
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44be57418f55ded489e7e913c418c420
+      internalID: 76814840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnholyOrahRightIdle_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1943
+        width: 242
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf2297c4c989164b8b639377d4b4c0e
+      internalID: 1543472738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnholyOrahRightIdle_1
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1943
+        width: 244
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67130feeccb61ce4695aff53e59e51cb
+      internalID: 1922261554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnholyOrahLeftIdle_0
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1943
+        width: 242
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ee447093570a74f947829ac108d601
+      internalID: 1086997219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnholyOrahLeftIdle_1
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1943
+        width: 243
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbe15b1667c7ee4cbf45fa524e88b7f
+      internalID: 151313395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnholyOrahUp_0
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 1937
+        width: 244
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbd6a78f3c66574abb02e47f16477fe
+      internalID: 1685906390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnholyOrahUp_1
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 1937
+        width: 242
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e086b7c960ee245b5a5d753eac0e0a
+      internalID: 399078498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnholyOrahRightRoll_1
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1699
+        width: 242
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6186e0867664141408c18c57fc5c3c5e
+      internalID: -1395823186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnholyOrahRightRoll_2
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1699
+        width: 227
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0491e14ca8435504a8c553c6ebe8b822
+      internalID: -1211378282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnholyOrahRightRoll_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1691
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed88d72aaf580844ae7b28ef4b71f52
+      internalID: -724325561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnholyOrahRightRoll_4
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1691
+        width: 242
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9695b87142e2548aaf6387090aee68
+      internalID: 50309960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnholyOrahRightRoll_5
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 1703
+        width: 265
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f2794885d40314cbf6cad3dd229101
+      internalID: -248054453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnholyOrahRightRoll_6
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 1699
+        width: 238
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e666f4cd6980cba47af9069d312a817d
+      internalID: 1890576360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnholyOrahRightRoll_7
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 1685
+        width: 223
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24598b653d9de8e4995b4bbaf65dad92
+      internalID: 910054803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnholyOrahRightRoll_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1705
+        width: 244
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d49835af4491043bfbe4b160fd2754
+      internalID: 2009482090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnholyOrahRightRoll_8
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 1714
+        width: 242
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40df6a9acdb687e42921b7e2bc41b989
+      internalID: -479902631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnholyOrahLeftRoll_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1474
+        width: 244
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9f1bed17e33b04bb29c9ff62d280b6
+      internalID: 1520591502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnholyOrahLeftRoll_1
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1453
+        width: 221
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4617d28974327f2498dedcacd0d9f01c
+      internalID: -1160833237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnholyOrahLeftRoll_2
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1453
+        width: 229
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7820c5721e2544eab3990a450e5add
+      internalID: -375026586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnholyOrahLeftRoll_3
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1465
+        width: 242
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8d9e8dc23b28b4aa3f057dd9830d60
+      internalID: -981700952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnholyOrahLeftRoll_4
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1459
+        width: 242
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba81c0b7f6c6f174f85601dadb97e1c4
+      internalID: 873140158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnholyOrahLeftRoll_6
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 1453
+        width: 234
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b42cdd57ae0f57408b7792058d3d528
+      internalID: 1855853641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnholyOrahLeftRoll_7
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 1453
+        width: 242
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1131407ec70767443bf01c1fccb180a3
+      internalID: 1342620618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnholyOrahLeftRoll_8
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 1471
+        width: 243
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7607a645060a793458bd8fc6db2dfffb
+      internalID: 872162287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnholyOrahBounce_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1222
+        width: 242
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9d01c6b1dc4404b81ad07af44ebab1
+      internalID: -237679319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnholyOrahBounce_1
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1215
+        width: 244
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41eafb7ec37f663418f34091d2b49d5f
+      internalID: -843758040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnholyOrahBounce_2
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1215
+        width: 242
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce16dd92cbb2a6f4699026d4f21d4c85
+      internalID: 1778790897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnholyOrahLeftRoll_5
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 1461
+        width: 251
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1941d3494aab9c4b9d7c57a9a4a090c
+      internalID: 1547583580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      HolyOraLeftIdle_0: 1199356412
+      HolyOraLeftRoll_0: 1040976936
+      HolyOraLeftRoll_1: 895733150
+      HolyOraLeftRoll_2: 220431284
+      HolyOraLeftRoll_3: -1009134111
+      HolyOraLeftRoll_4: 1419280874
+      HolyOraLeftRoll_5: 570929137
+      HolyOraLeftRoll_6: -37111125
+      HolyOraLeftRoll_7: -608962179
+      HolyOraLeftRoll_8: 1922770489
+      HolyOraRightRoll_0: -1052204304
+      HolyOraRightRoll_1: 884472526
+      HolyOraRightRoll_2: -654960034
+      HolyOraRightRoll_3: -1137541144
+      HolyOraRightRoll_4: -177544258
+      HolyOraRightRoll_5: 111592348
+      HolyOraRightRoll_6: 1861512217
+      HolyOraRightRoll_7: 2072386121
+      HolyOraRightRoll_8: 1623662469
+      HolyOraUp_0: 2011778141
+      HolyOraUp_1: -315490941
+      HolyOrahBounce_0: 823658091
+      HolyOrahBounce_1: 76814840
+      HolyOrahBounce_2: 997994328
+      HolyOrahLeftIdle_1: 643291439
+      HolyOrahRightIdle_0: -1347943915
+      HolyOrahRightIdle_1: -258430716
+      OrahBounce_0: 783036254
+      OrahBounce_1: -613740801
+      OrahBounce_2: -1089949084
+      OrahDeath_0: -639477479
+      OrahDeath_1: 1010572724
+      OrahDeath_2: 1767758600
+      OrahDeath_3: -1222253909
+      OrahDeath_4: -875902468
+      OrahFullSheet_101: 423777543
+      OrahFullSheet_103: 262187872
+      OrahFullSheet_104: 798390097
+      OrahFullSheet_105: -2130794849
+      OrahFullSheet_106: 977986581
+      OrahFullSheet_113: -162568870
+      OrahFullSheet_116: 893109391
+      OrahFullSheet_117: 1913768229
+      OrahFullSheet_118: -1794379666
+      OrahFullSheet_119: -2051149211
+      OrahFullSheet_120: 1219894562
+      OrahFullSheet_32: 312009230
+      OrahFullSheet_33: -583295858
+      OrahFullSheet_34: -462747219
+      OrahFullSheet_35: -1443765210
+      OrahFullSheet_36: 1961537847
+      OrahFullSheet_37: 120145507
+      OrahFullSheet_45: -1935418986
+      OrahFullSheet_46: -1179637662
+      OrahFullSheet_55: -437969588
+      OrahFullSheet_56: 2015297343
+      OrahFullSheet_57: -1646315306
+      OrahFullSheet_58: 242335412
+      OrahFullSheet_59: -1615808109
+      OrahFullSheet_60: 1323578483
+      OrahFullSheet_61: 1865092284
+      OrahFullSheet_71: -1457409301
+      OrahFullSheet_72: -554806668
+      OrahFullSheet_73: -1742216505
+      OrahFullSheet_74: -1655268356
+      OrahFullSheet_75: 1053655306
+      OrahFullSheet_76: 631001517
+      OrahFullSheet_77: -1520775531
+      OrahFullSheet_78: 1078546245
+      OrahFullSheet_82: 1478130532
+      OrahFullSheet_83: -2088549516
+      OrahFullSheet_84: -415330384
+      OrahFullSheet_91: 236123925
+      OrahFullSheet_99: 294131917
+      OrahLeftIdle_0: 1605114066
+      OrahLeftIdle_1: 2020002254
+      OrahLeftRoll_0: -2098342869
+      OrahLeftRoll_1: 377782955
+      OrahLeftRoll_2: 662568551
+      OrahLeftRoll_3: 1712022835
+      OrahLeftRoll_4: 1154066717
+      OrahLeftRoll_5: 2021288886
+      OrahLeftRoll_6: 280110267
+      OrahLeftRoll_7: -856369022
+      OrahLeftRoll_8: 1135407885
+      OrahRIghtRoll_3: 1840138365
+      OrahRightIdle_0: 1786590046
+      OrahRightIdle_1: 1488207266
+      OrahRightRoll_1: -1159628052
+      OrahRightRoll_2: 143010302
+      OrahRightRoll_4: -875551925
+      OrahRightRoll_5: 1688474174
+      OrahRightRoll_6: -978943756
+      OrahRightRoll_7: -1985272344
+      OrahRightRoll_8: -1377395424
+      OrahRollRIght_0: 1757539184
+      OrahUp_0: -1011642218
+      OrahUp_1: 1119886239
+      UnholyOrahBounce_0: -237679319
+      UnholyOrahBounce_1: -843758040
+      UnholyOrahBounce_2: 1778790897
+      UnholyOrahLeftIdle_0: 1086997219
+      UnholyOrahLeftIdle_1: 151313395
+      UnholyOrahLeftRoll_0: 1520591502
+      UnholyOrahLeftRoll_1: -1160833237
+      UnholyOrahLeftRoll_2: -375026586
+      UnholyOrahLeftRoll_3: -981700952
+      UnholyOrahLeftRoll_4: 873140158
+      UnholyOrahLeftRoll_5: 1547583580
+      UnholyOrahLeftRoll_6: 1855853641
+      UnholyOrahLeftRoll_7: 1342620618
+      UnholyOrahLeftRoll_8: 872162287
+      UnholyOrahRightIdle_0: 1543472738
+      UnholyOrahRightIdle_1: 1922261554
+      UnholyOrahRightRoll_0: 2009482090
+      UnholyOrahRightRoll_1: -1395823186
+      UnholyOrahRightRoll_2: -1211378282
+      UnholyOrahRightRoll_3: -724325561
+      UnholyOrahRightRoll_4: 50309960
+      UnholyOrahRightRoll_5: -248054453
+      UnholyOrahRightRoll_6: 1890576360
+      UnholyOrahRightRoll_7: 910054803
+      UnholyOrahRightRoll_8: -479902631
+      UnholyOrahUp_0: 1685906390
+      UnholyOrahUp_1: 399078498
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
